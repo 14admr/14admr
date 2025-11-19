@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Vue.js, Next.js, and TypeScript (transitioning from React/JS)**
 
-- 📫 How to reach me **alesundreau@yahoo.com**
+- 📫 Email (primary contact preference) **alesundreau@yahoo.com**
+
+- ☎️ Viber/WhatsApp **09762940778**
 
 - ⚡ Fun fact **I love solving logic puzzles like Sudoku and Minesweeper.**
 
